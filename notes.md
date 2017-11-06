@@ -286,7 +286,8 @@ Vechicles for brand to tell a stories
 
 **Brand Advocates**
 : Customers, employees, and others who willingly and voluntarily promote their favourite brands 
-**Principles**
+**General Guiding Principles**
+
 	* Advocacy begins with trust
 	* Advocacy starts close to home
 	* Make customers and employees part of the brand story
