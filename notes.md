@@ -1,4 +1,6 @@
 
+MKTG 396 Introduction to Marketing 
+===================
 [TOC]
 # Chapter 7 Segmentation, Targeting, Differentiation, Positioning
 > **Segmentation**
@@ -29,7 +31,7 @@
 > **Intermarket (cross-market) segmentation 
 > - Forming segments of consumers who have similar needs and buying behaviours even though they are located int different countries. 
 
-###Requirements for effective segmentation
+### Requirements for effective segmentation
 **Measurable, accessible, substantial, differentiable, actionable** 
 
 ## Targeting  
@@ -76,3 +78,127 @@
 
 ### Positioning Strategy
 ![Positioning strategy](https://github.com/bleng/MKTG-396/blob/master/figure/posstr.png)
+
+# Chapter 8 Developing and Managing Products and Services
+## What is a Product 
+> **Product**
+
+>- anything that can be offered to a market for attention, acquisition, use, or consumption that might satisfy a want or need. 
+
+>**Service**
+
+>- An activity, benefit, or satisfaction offered for sale that is essentially intangible and does not result in the ownership of anything
+
+> **Consumer Products**
+
+>- Products purchased by consumers for their personal (nonbusiness) use.
+
+>**Convenience product**
+
+>- A consumer product that consumers usually buy frequently, immediately, and with a minimum of comparison and buying effort
+
+>**Shopping product**
+
+>- Less frequently purchased consumer products and services that shoppers compare carefully on suitability, quality, price and style. 
+
+>**Specialty product**
+
+>- A consumer product with unique characteristics or brand identification for which a significant group of buyers is willing to make a special purchase effort. 
+
+>**Unsought product**
+
+>- A consumer product that the consumer either does not know about or knows about but does not normally think of buying. 
+
+>**Industrial Product**
+
+>- A product bought by individuals and organizations for further processing or for use in conducting a business
+
+## New Product Development 
+Why new-product failed,
+>**Diffusion of innovations theory**
+
+>- A social sciences theory that divides members of a social group into segments according to how likely they are to adopt a new idea
+
+It's hard for information to diffuse in all the group
+
+>**Technology adoption life cycle**
+
+>- A marketing theory that proposes that when marketing a technology product, marketer, mush cross a chasm, or significant gap, between members o the early adopters segments and members of the early majority segment before a new product will become successful. 
+
+![The New-Product Development Process](https://github.com/bleng/MKTG-396/blob/master/figure/ndp.png)
+
+## The Product life-cycle 
+>**Introduction stage**
+
+>- The product life-cycle stage in which the new product is first distributed and made available for purchase.
+
+>**Growth stage**
+
+>- The product life-cycle in which a product's sales start climbing quickly
+
+>**Maturity stage**
+
+>- The product life-cycle stage in which sales growth slows or levels off 
+
+>**Decline stage**
+
+>- The product life-cycle stage in which a product's sales decline
+
+![Summary of Product Life-Cycle Characteristics, Objectives and Strategies](https://github.com/bleng/MKTG-396/blob/master/figure/sumndp.png)
+
+>**Style**
+
+>- A basic and distinctive mode of expression 
+
+>**Fashion**
+
+>- A currently accepted or popular style of design, color, or theme 
+
+>**Fad**
+
+>- A temporary period of unusually high sales driven by consumer enthusiasm and immediate product or brand popularity
+
+## Product and Service Decisions 
+>**Packaging**
+
+>- The activities of designing and producing the container or wrapper for a product
+
+>**Product line**
+
+>- A group of products that are closely related because they function in a similar manner, are sold to the same customer groups, are marketed through the same types of outlets of fall within given price ranges 
+
+## Service Marketing 
+Major characteristic of services
+>**Service intangibility**
+
+>- A major characteristic of services--- they cannot be seen, tasted, felt, heard, or smelled before they are bought. 
+
+>**Service inseparability**
+
+>- A major characteristic of services-- they are produced and consumed at the same time and cannot be separated from their providers.
+
+>**Service variability**
+
+>- A major characteristic of services-- their quality may vary greatly, depending on who provides them and when, where, and how. 
+
+>**Service perishability**
+
+>- A major characteristic of services- they cannot be stored for later sale or use.
+
+
+![Special characteristics of services](https://github.com/bleng/MKTG-396/blob/master/figure/prpser.png)
+
+
+Marketing strategies for service firms,
+
+>**Service-Profit chain**
+
+>- The chain that links service firm profits with employee and customer satisfaction 
+
+>**Internal marketing**
+
+>-Orienting and motivating customer-contact employees and supporting service people to work as a team to provide customer satisfaction. 
+
+![Service-Profit chain](https://github.com/bleng/MKTG-396/blob/master/figure/prpser.png)
+# Chapter9
+
