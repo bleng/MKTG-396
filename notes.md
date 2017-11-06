@@ -202,3 +202,93 @@ Marketing strategies for service firms,
 ![Service-Profit chain](https://github.com/bleng/MKTG-396/blob/master/figure/prpser.png)
 # Chapter9
 
+## What is a Brand 
+>**Brand**
+
+>- A name, symbol, icon, design, or a combination of these, that identifies the maker or marketer of a product. 
+
+## Brand Characteristics
+>**Logo**
+>**Brand Personality**
+
+>- The sum total of all the attributes of a brand, and the emotions it inspires in the minds of consumers. 
+
+>**Brand equity**
+
+>- The dollar amount attributed to the value of the brand, based on all the intangible qualities that create that value. 
+
+## Branding Strategy and Management 
+>**Brand Name selection**
+
+>- If should suggest something about the type of products it will brand
+>- It should be easy to pronounce, remember
+>- Distinctive 
+>- Extendable 
+>- Pronounceable in many languages 
+>- capable of registration and protection as a trademark 
+
+>**Brand Positioning**
+
+**Brand Sponsorship**  
+
+* **National brand (or manufacturer's brand)**
+	* A brand created and owned by the manufacture of the product
+
+* **Private brand(store brand, private label)**
+	* Brand names applied by the marketer to products manufactured for them under contract
+
+**Licensing**
+: The practice of using the established brand names of two different companies on the same product 
+
+**Co-branding**
+: The practice of using the established brand names of two different companies on the same product. 
+
+## Brand Development
+**line extensions**
+: Extending an existing brand name to new forms, colours, sizes, ingredients, or flavours of an existing product category. 
+
+**Brand extensions**
+: Extending an existing brand name to new product categories 
+
+**Multibranding** 
+: A brand development strategy in which the same manufacturer produces many different brands in the same product category. 
+
+**New Brands**
+
+
+![Brand development strategy ](https://github.com/bleng/MKTG-396/blob/master/figure/brand.png)
+
+## Brand communications 
+
+Brand Experiences and touchpoints 
+**Touchpoints** 
+: Advertising, marketing communications, personal experience with the brand, word of mouth, social media, company and brand websites, store displays, and anything else that brings a consumer into contact with a brand 
+
+**Brand Icon**
+: objects with distinct shapes, colors, or patterns that are associated with the brand
+
+**Brand characters**
+: Lifelike brand icons, or mascots, that can move speak, and interact, and that have personality traits. 
+
+**Brand engagement**
+: The interaction between consumers and brands, based on the emotional connection consumers feel toward the brand.
+
+**Brand ambassador**
+: A real person who, under contract with the brand's marketing organization, acts as a spokesperson for the brand
+
+## Brand stories 
+Vechicles for brand to tell a stories
+**Branded content (content marketing )**
+: Any form of information or story written and produced by a brand marketer, with the brand clearly and prominently featured. 
+
+**Branded Entertainment**
+: a form of entertainment, usually video, that is created with the cooperation or financial support of a marketer. 
+
+**Brand Advocates**
+: Customers, employees, and others who willingly and voluntarily promote their favourite brands 
+**Principles**
+	* Advocacy begins with trust
+	* Advocacy starts close to home
+	* Make customers and employees part of the brand story
+	* Deliver an experience that gets them talking 
+	* Outperform where they care the most (understanding and solving problems)
