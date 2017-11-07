@@ -383,6 +383,7 @@ Four different types of markets,
 
 **Product Bundle Pricing **
 : combining several products and offering the bundle at a reduced price
+
 ![Product mix pricing method summary table ](https://github.com/bleng/MKTG-396/blob/master/figure/PMP.png)
 
 ## Price Adjustment Strategies
