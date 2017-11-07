@@ -381,7 +381,7 @@ Four different types of markets,
 **By-Product Pricing**
 : setting a price for by-products to make the main product's price more competitive
 
-**Product Bundle Pricing **
+**Product Bundle Pricing**
 : combining several products and offering the bundle at a reduced price
 
 
