@@ -294,3 +294,120 @@ Vechicles for brand to tell a stories
 	* Make customers and employees part of the brand story
 	* Deliver an experience that gets them talking 
 	* Outperform where they care the most (understanding and solving problems)
+	
+	
+# Chapter 10 Pricing: Understanding and Capturing Customer Value
+
+## Major Pricing Strategies
+
+**Customer Value-Based Price**
+: Setting price based on buyer's perceptions of value rather than on the seller's cost
+
+**Good- value pricing**
+: offering just the right combination of quality and good service at a fair price 
+
+**Value-added pricing**
+: Attaching value-added features and services to differentiate a company's offers and charging higher prices
+
+**Cost-based pricing**
+: Setting prices based on the costs for producing, distributing, and selling the product plus a fair rate of return for effort and risk.
+
+### Types of Costs
+> **Fixed costs (overhead)**
+
+>- costs that do not vary with production or sales level
+
+>**Variable costs**
+
+>- Costs that vary directly with the level of production.
+
+> **Total costs**
+
+>- The sum of the fixed  and variable costs for any given level of production 
+
+### Pricing method
+**Cost-plus pricing**
+: Adding a standard mark-up to the cost of the product
+
+**Break-even pricing (or target return pricing)**
+: Setting price to break even on the costs of making and marketing a product, or setting price to make a target return. 
+
+**Competition-based pricing**
+: Setting prices based on competitors' strategies, prices, costs ,and market offerings. 
+	
+## other internal and External considerations affecting pricing decisions 
+Factor included,
+
+* Overall Marketing Strategy, objectives, and Mix
+* The Market and Demand
+* Pricing in Different Types of Markets
+* The Economy
+
+Four different types of markets,
+
+* Pure competition
+* Monopolistic  competition
+* Obligopolistic competition 
+* Pure monopoly
+
+
+**Target costing**
+:  Pricing that starts with an ideal selling price, then targets costs that will ensure thate the price is met
+
+### Analyzing the Price-Demand relationship
+**Demand curve**
+: A curve that shows the number of units the market will buy in a given time period, at different prices that might be charged.
+![Demand curve](https://github.com/bleng/MKTG-396/blob/master/figure/pdcurve.png)
+
+**Price elasticity**
+: A measure of the sensitivity of demand to changes in price 
+
+## New-Product Pricing
+**Market-skimming pricing (or price skimming)**
+: Setting a high price for a new product to skim maximum revenues layer by layer from the segments willing to pay the high price; the company makes fewer but more profitable sales. 
+
+**Market-penetration pricing**
+: setting a low initial price for a new product in order to attract a large number of buyers and a large market share
+
+## Product Mix pricing
+**Product line pricing**
+: Setting the price steps between various in a product line based on cost differences between the products customer evaluations of different features and competitor's prices.
+**Optional-Product Pricing**
+: The pricing of optional or accessory products along with a main product
+
+**Captive-Product Pricing**
+: setting a price for products that must be used along with a main product, such as blades for a razor and games for a video-game console. 
+
+**By-Product Pricing**
+: setting a price for by-products to make the main product's price more competitive
+
+**Product Bundle Pricing **
+: combining several products and offering the bundle at a reduced price
+![Product mix pricing method summary table ](https://github.com/bleng/MKTG-396/blob/master/figure/PMP.png)
+
+## Price Adjustment Strategies
+**Discount**
+: A straight reduction in price on purchases during a stated period of time or on larger quantities.
+
+**Allowance**
+: Promotional money paid by manufacturers to retailers in return for an agreement to feature the manufacturer's products in some way. 
+
+**Segmented Pricing**
+: Selling a product or service at two or more prices, where the difference in prices is not based on differences in costs. 
+
+**Psychological Pricing**
+: Pricing that considers the psychology of prices and not simply the economics; the price is used to say something about the product. 
+
+**Reference prices**
+: Prices that buyers carry in their minds and refer to when they look at a given product.
+
+**Promotional pricing**
+: Temporarily pricing products below the list price and sometimes even below cost to increase short-run sales.
+
+**Geographical Pricing**
+: Setting prices for customers located in different parts of the country or the world 
+
+**Dynamic Pricing**
+: Adjusting prices continually to meet the characteristics and needs of individual customers and situations.
+
+![Price Adjustment strategies](https://github.com/bleng/MKTG-396/blob/master/figure/PA.png)
