@@ -34,7 +34,7 @@ MKTG 396 Introduction to Marketing
 > **Benefit segmentation**
 > - Dividing the market into segments according to the different benefits that consumers seek from the product
 
-> **Intermarket (cross-market) segmentation 
+> **Intermarket (cross-market) segmentation**
 > - Forming segments of consumers who have similar needs and buying behaviours even though they are located int different countries. 
 
 ### Requirements for effective segmentation
