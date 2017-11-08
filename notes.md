@@ -414,3 +414,108 @@ Four different types of markets,
 : Adjusting prices continually to meet the characteristics and needs of individual customers and situations.
 
 ![Price Adjustment strategies](https://github.com/bleng/MKTG-396/blob/master/figure/PA.png)
+
+
+# Chapter 11 Marketing Channels
+## Distribution Channels: The Value Delivery Network
+**Value Delivery network**
+: The network made up of the company, suppliers, distributors, and ultimately customers who partner with each other to improve the performance of the entire system in delivering customer value. 
+
+**Marketing channel (or distribution channel)**
+: A set of interdependent organizations that help make a product or service available for use or consumption by the consumer or business customers. 
+
+There are some of the specific functions channels partners can perform:
+* Information gathering and distribution
+* Promotion at point of purchase
+* Contact
+* Matching and arranging
+* Negotiation 
+* Physical distribution
+* Financing 
+* Risk taking 
+* After-sales support
+
+## Types of Channel Partners
+>**Retailing**
+>: The business of selling goods or services to consumers for their personal use.
+
+>**Retailer**
+>: A business that primarily sells products and services to consumers.
+
+>**Wholesaling**
+>: All activities involved in selling goods and services to those buying for resale or business use.
+
+>**Wholesaler**
+>: Company whose primary business wholesaling
+
+>**Drop shipper**
+>: An intermediary that takes orders and payment from the customer, then arranges to have the merchandise shipped to the customer directly from the supplier 
+
+>**Rack jobber**
+>: A wholesaler that buys merchandise and resells it on "racks" inside a retail store, in partnership with the retailer
+
+>**Brokers**
+>: A wholesaler that does not take title to goods and whose function is to bring buyers and sellers together and assist in negotiation.
+
+>**Agents**
+>A representative, either of a buyer or a seller, who performs only a few functions and does not take title to goods 
+
+## Organization and Management of Channels
+>**Channel level**
+>: A layer of intermediaries that performs some work in bringing the product and its ownership closer to the final buyer. 
+
+>**Direct versus Indirect Channels**
+
+![Direct and indirect Marketing Channels ](https://github.com/bleng/MKTG-396/blob/master/figure/channel.png)
+
+>**Vertical Marketing system(VMS)**
+>: A distribution channel structure in which producers, wholesalers, and retailers act as a unified system. One channel member owns the others, has contracts with them, or has so much power that they all cooperate. 
+
+>**Corporate VMS**
+>: A vertical marketing system that combines successive stages of production and distribution under single ownership: Channel leadership is established through common ownership. 
+
+>**Administered VMS**
+>: A vertical marketing system that coordinates successive stage of production and distribution, not through common ownership or contractual ties, but though the size and power of one of the parties.
+
+>**Contractual VMS**
+>: A vertical marketing system in which independent firms at different levels of production and distribution work together under contract.
+
+>**Franchise Organization**
+>: A marketing system that links several stages in the production and distribution process, and controls operations from a central head office. 
+
+Horizontal Marketing Systems 
+>**Horizontal Marketing system**
+>: An arrangement in which two or more companies that operate at the same channel level join together to follow a new marketing opportunity. 
+
+**Multichannel (Hybrid) distribution systems**
+: A distribution system in which a single firm sets up two or more marketing channels to reach one or more market segments
+
+### Ongoing Management of Channel Partners
+>**Channel Conflict**
+>: Disagreement among marketing channel members over goals, roles, and rewards.
+
+>**Disintermediation**
+>: The cutting out of marketing channel intermediaries by product or service producers or the displacement of traditional resellers by radical new types of intermediaries. 
+
+## Channel strategy and Design
+### Distribution( Channel) strategy
+>**Intensive distribution**
+>: a marketing strategy in which the product is stocked in as many outlets as possible
+
+>**Selective distribution**
+>: A distribution strategy in which the marketer selects a set of retailers that specialize in their product category. 
+
+>**Exclusive Distribution**
+>: A distribution strategy in which the marketer gives the rights to distribute its products to only one retailer, or to only one retailer in particular geographic territory. 
+
+## Channel Design Decisions 
+>**Marketing channel design**
+>: Designing effective marketing channels by analyzing customer needs, setting channel objectives, determining the types and responsibilities of channel members, and making decisions about international distribution channels. 
+
+## Supply Chain Management and Logistic
+>**Logistics management(supply chain management)
+>: Planning, implementing, and controlling the physical flow of materials, final goods, and related information from points of origin to points of consumption to meet customer requirements at a profit.
+
+>**Just-in-time logistics systems**
+>: A type of inventory management system in which only small inventories of parts or merchandise are held. and new stock arrives "just in time: when it is neeeded 
+
