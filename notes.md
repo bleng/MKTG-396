@@ -18,16 +18,22 @@ MKTG 396 Introduction to Marketing
 ## Segmentation 
 > **Geographic segmentation**
 > - Dividing a market into different geographical units, such as global regions, countries, regions within a country , provinces, cities, or even neighbourhoods. 
+
 > **Demographic segmentation**
 > - Dividing the market into segments based on variables such as age, gender, family size, life cycle, household income(HHI), occupation, educatin, ethnic or cultural group, and generation. 
+
 > **Psycho-graphic segmentation** 
 > - Dividing a market into different segments based on social class, lifestyle, or personality characteristics. 
+
 > **Behavioural segmentation**
 > -Dividing a market into segments based on consumer knowledge, attitudes, uses, or responses to a product
+
 > **Occasion segmentation**
 > - Dividing the market into segments according to occasions when buyers get the idea to buy, actually make their purchase, or use the purchased item. 
+
 > **Benefit segmentation**
 > - Dividing the market into segments according to the different benefits that consumers seek from the product
+
 > **Intermarket (cross-market) segmentation 
 > - Forming segments of consumers who have similar needs and buying behaviours even though they are located int different countries. 
 
