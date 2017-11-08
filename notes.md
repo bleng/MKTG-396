@@ -513,7 +513,7 @@ Horizontal Marketing Systems
 >: Designing effective marketing channels by analyzing customer needs, setting channel objectives, determining the types and responsibilities of channel members, and making decisions about international distribution channels. 
 
 ## Supply Chain Management and Logistic
->**Logistics management(supply chain management)
+>**Logistics management(supply chain management)**
 >: Planning, implementing, and controlling the physical flow of materials, final goods, and related information from points of origin to points of consumption to meet customer requirements at a profit.
 
 >**Just-in-time logistics systems**
