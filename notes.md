@@ -519,3 +519,84 @@ Horizontal Marketing Systems
 >**Just-in-time logistics systems**
 >: A type of inventory management system in which only small inventories of parts or merchandise are held. and new stock arrives "just in time: when it is neeeded 
 
+# Chapter 12 Retailing and Wholesaling 
+## Retailing 
+**Types of Retailers**
+
+* Convenience store
+*  Discount store 
+
+**Product line**
+>**Specialty store**
+>: A retail store that carries a narrow product line with a deep assortment within that line.
+
+>**Department store**
+>: A retail store that carries a wide variety of product lines, each operated as a separate department managed by specialist buyers or merchandisers.
+
+>**Supermarket**
+>: A large, low-cost, low-margin, high-volume, self-service store that carries a wide variety of grocery and household products. 
+
+>**General merchandise store**
+>: A store that sells a broad selection of merchandise where people can purchase all their general goods 
+
+>**Superstore**
+>: A store much larger than a regular supermarket that offers a large assortment of routinely purchased food products, nonfood items, and services.
+
+>**Category killer(or big box store)**
+>: A giant specialty store that carries a very deep assortment of a particular line
+
+>**Service retailer**
+>: A retailer whose product line is actually a service; examples include hotels, airlines, banks, restaurants, and many others.
+
+**Relative Prices**
+>**Discount store**
+>: A retail operation that sells standard merchandise at lower prices by accepting lower margins and selling at higher volume
+
+>**Off-price retailer**
+>A retailer that buys at less-than-regular wholesale prices and sells at less than retail 
+
+>**Independent off-price retailer**
+>: An off-price retailer that is either independently owned and run or a division of a larger retail corporation. 
+
+>**Factory outlets**
+>: An off-price retailing operation that is owned and operated by a manufacturer and normally carries the manufacturer's surplus, discontinued, or irregular goods. 
+
+>**Warehouse club**
+>: An off-price retailer that sells a limited selection of brand name grocery items, appliances, clothing, and other goods at deep discounts to members who pay annual membership fees. 
+
+**Organization Approach**
+![Major Types of Retail Organizations](https://github.com/bleng/MKTG-396/blob/master/figure/organ.png)
+
+
+## Retailer marketing decisions 
+![Retailer Marketing Strategies](https://github.com/bleng/MKTG-396/blob/master/figure/decision.png)
+
+## Retailing Trends and Developments
+* Experiential retail (selling experience)
+* In-store, Mobile and wearable technology
+* Increasing Use of Gift cards
+* Shopper marketing 
+> using point-of-sale promotions and advertising to extend brand equity to "the lase mile" and encourage favourable in-store purchase decisions 
+
+
+* Online Retail
+* Social media and mobile 
+* New retail forms and retail convergence
+	* Green Retailing
+	* international retailing
+
+
+## Wholesaling 
+Wholesalers add value by performing one or more of the following channel functions.
+* Selling and promoting
+* Buying and assortment building
+* Bulk breaking 
+* Warehousing
+* Transportation
+* Financing
+* Risk bearing
+* Market Information
+* Management services and advice
+
+![Major Types of Wholesaler](https://github.com/bleng/MKTG-396/blob/master/figure/whole.png)
+
