@@ -647,7 +647,7 @@ Wholesalers add value by performing one or more of the following channel functio
 ![Major Advertising Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/MAD.png)
 **Advertising objective**
 : A specific communication task to be accomplished with  a specific target audience during a specific period of time. 
-
+![Possible Advertising Objectives](https://github.com/bleng/MKTG-396/blob/master/figure/Object.png)
 **Setting The Advertising Budget**
 >**Advertising budget**
 >: The dollars and other resources allocated to a product or a company advertising program
@@ -734,4 +734,3 @@ PR departments may perform any or all of the following functions
 * Written materials
 * Corporate identity materials 
 * Public service activities
-
