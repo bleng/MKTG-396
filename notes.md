@@ -769,7 +769,7 @@ PR departments may perform any or all of the following functions
 >**Product sales force structure**
 >: A sales force organization in which salespeople specialize in selling only a portion of the company's products or lines.
 
->**Customer (or market) sales force structure
+>**Customer (or market) sales force structure**
 >: A sales force organizations in which salespeople specialize in selling only to certain customers or industries. 
 
 ![Major Advertising Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/MSS.png)
@@ -836,7 +836,7 @@ PR departments may perform any or all of the following functions
 
 
 >**Trade promotion**
-:> sales promotion tools used to persuade re-sellers to carry a brand, give it shelf space, and promote it in adverting. 
+>: sales promotion tools used to persuade re-sellers to carry a brand, give it shelf space, and promote it in adverting. 
 
 >**Business Promotions**
 >: sales promotion tools used to generate business leads, stimulate purchases, reward customers, and motivate salespeople 
