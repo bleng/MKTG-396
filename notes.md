@@ -703,7 +703,7 @@ Creating The advertising message
 **Advertising media**
 : The vehicles through which advertising messages are delivered to their intended audiences.
  
-![Profiles of major media types](https://github.com/bleng/MKTG-396/blob/master/Profile.png)
+![Profiles of major media types](https://github.com/bleng/MKTG-396/blob/master/figure/Profile.png)
 
 ## Evaluating Advertising Effectiveness and the return on advertising investment 
 **Return on advertising investment**
