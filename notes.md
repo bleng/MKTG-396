@@ -606,3 +606,132 @@ Wholesalers add value by performing one or more of the following channel functio
 
 ![Major Types of Wholesaler](https://github.com/bleng/MKTG-396/blob/master/figure/whole.png)
 
+# Chapter 13 Communicating Customer Value: Advertising and Public Relations
+
+## The promotion Mix 
+>**Promotion mix (or marketing communications mix)**
+>: The specific blend of promotion tools that the company uses to engage consumers, persuasively communicate customer value, and build customer relationships. 
+
+>**Advertising**
+>: Any paid form of non personal presentation and promotion of ideas, goods, or services by an identified sponsor 
+
+>**Sales promotion**
+>: Short-term incentives to encourage the purchase or sale of a product or service. 
+
+>**Personal selling**
+>: Personal customer interactions by the firm's sales force for the purpose of making sales and building customer relationships. 
+
+>**Public relations (PR)**
+>: Building good relations with the company's various public by obtaining favorable publicity, building up a good corporate image, and handling or heading off unfavorable rumors, stories, and events.
+
+>**Direct and digital marketing**
+>: Engaging and interacting directly with carefully targeted individual consumers and consumer communities to both obtain an immediate response and cultivate lasting customer relationships.   
+
+## Integrated Marketing Communications
+**Brand Content Management**
+: Creating, inspiring, and sharing brand messages and conversations with and among consumers across a fluid mix of paid, owned, earned, and shared channels. 
+
+
+**Four Types of media**
+>**Paid media**-- includes promotional channels paid for by the sponsor, such as traditional media and online and digital media.
+>**Owned media**-- includes promotional channels owned and controlled by the company, such as company wesites, corporate blogs.
+>**Earned media**-- includes PR media channels, such as television, newspapers, blogs. and other media not directly paid for or controlled by the marketer but that include the content because of viewer, reader, or user interest. 
+>**Shared media**-- includes media shared by consumers with other consumers, such as social media, blogs, mobile media, and viral channels, as well as traditional word of mouth
+
+ **Integrated marketing communications (IMC)**
+ : Carefully integrating and coordinating the company's many communications channels to deliver a clear consistent, and compelling message about the organization and its products. 
+
+![Integrated marketing communications(IMC)](https://github.com/bleng/MKTG-396/blob/master/figure/IMC.png)
+
+## Advertising 
+![Major Advertising Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/MAD.png)
+**Advertising objective**
+: A specific communication task to be accomplished with  a specific target audience during a specific period of time. 
+
+**Setting The Advertising Budget**
+>**Advertising budget**
+>: The dollars and other resources allocated to a product or a company advertising program
+
+>**Affordable Method**
+>: Setting the promotion budget at the level management thinks the company can afford.
+
+>**Percentage-of-sales method**
+>: Setting the promotion budget at a certain percentage of current or forecasted sales  or as a percentage of the unit sales price. 
+
+>**Competitive-parity method**
+>: Setting the promotion budget to match competitors' outlays
+
+>**Objective-and-Task Method**
+>: Developing the promotion budget by (1) defining specific objectives, (2) determining the tasks that must be performed to achieve these objectives, and (3) estimating the costs of performing these tasks. The sum of these costs is the proposed promotion budget. 
+
+**Developing Advertising Strategy**
+: The strategy by which the company accomplishes its advertising objectives. It consists of two major elements: creating advertising messages and selecting advertising media. 
+
+Creating The advertising message
+	* Breaking though the clutter
+	* Merging Advertising and Entertainment
+	
+**Madison& Vine**
+: A term that has come to represent the merging of advertising and entertainment in an effort to break through the clutter and create new avenues for reaching customers with more engaging messages. 
+
+	
+* Message Strategy 
+
+**Creative Concept**: The compelling "Big idea" that will bring an advertising message strategy to life in a distinctive and memorable way. 
+
+* Message Execution
+**Execution style**
+: The approach, style, tone, words, and format used for executing an advertising message
+
+* Slice of life
+*  life sytle 
+* Fantasy
+*  Mood or image 
+*  Musical 
+*  Personality symbol
+*  Technical expertise
+*  Scientific evidence
+*  Testimonial evidence or endorsement
+
+**Consumer-Generated Content**
+
+### Selecting Advertising Media
+**Advertising media**
+: The vehicles through which advertising messages are delivered to their intended audiences.
+ 
+![Profiles of major media types](https://github.com/bleng/MKTG-396/blob/master/Profile.png)
+
+## Evaluating Advertising Effectiveness and the return on advertising investment 
+**Return on advertising investment**
+: The net return on advertising investment divided by the costs of the advertising investment
+
+### Organizing for advertising 
+**Advertising agency**
+A marketing services firm that assists companies in planning, preparing, implementing, and evaluating all or portions of their advertising programs
+
+## Public Relations
+PR departments may perform any or all of the following functions 
+>**Press relation or press agency**
+>: Creating and placing newsworthy information in the news media to attract attention to a person, product, or service.
+
+>**Product publicity**
+>: Publicizing specific products.
+
+>**Public affairs**
+>: Building and maintaining national or local community relationships
+
+>**Lobbying**
+>: Building and maintaining relationships with shareholders and others in the financial community
+
+>**Development**
+>: Working with donors or members of non profit organizations to gain financial or volunteer support
+
+### The Role and Impact of PR
+
+##Major Public Relations Tools
+* News
+* Special events
+* Written materials
+* Corporate identity materials 
+* Public service activities
+
