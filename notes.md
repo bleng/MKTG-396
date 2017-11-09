@@ -738,3 +738,105 @@ PR departments may perform any or all of the following functions
 * Written materials
 * Corporate identity materials 
 * Public service activities
+
+
+# Chapter 14 Personal Selling and Sales Promotion
+
+## Personal Selling 
+
+### The Nature of Personal Selling 
+**Personal selling**
+: Personal presentations by the firm's sales force for the purpose of making sales and building customer relationships.
+
+**Salesperson**
+: An individual who represents a company to customers by performing one or more of the following activities: prospecting, communicating, selling, servicing, information gathering, and relationship building 
+
+### The Role of the Sales force
+* Linking the Company with its Customers
+* Coordinating Marketing and Sales
+
+## Managing the sales Force
+**Sales Force management**
+: Analyzing, planning, implementing, and controlling sales force activities. 
+
+### Designing the sales Force strategy and Structure
+
+#### The sales Force Structure. 
+
+>**Territorial sales force structure**
+>: A sales force organization that assigns each salesperson to an exclusive geographic territory in which that salesperson sells the company's full line. 
+
+>**Product sales force structure**
+>: A sales force organization in which salespeople specialize in selling only a portion of the company's products or lines.
+
+>**Customer (or market) sales force structure
+>: A sales force organizations in which salespeople specialize in selling only to certain customers or industries. 
+
+![Major Advertising Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/MSS.png)
+
+### Other sales Force Strategy and Structure issues.
+>**Outside sales force( or field sales force)**
+>: Salespeople who travel to call on customers in the field 
+
+>**Inside Sales force**
+>: Salespeople who conduct business from their offices via telephone, online and social media interactions, or visits from prospective buyers
+
+>**Team selling**
+>: Using teams of people from sales, marketing, engineering. finance, technical support, and even upper management to service large, complex accounts. 
+
+>**Sales quota**
+>: A standard that states the amount a  salesperson should sell and how sales should be divided among the company's products. 
+
+## The Personal Selling Process 
+**The selling process**
+: The steps that salespeople follow when selling, which include prospecting and qualifying, preapproach, approach, presentation and demonstration, handling objections, closing, and follow-up.
+
+![Steps in the selling Process](https://github.com/bleng/MKTG-396/blob/master/figure/SP.png)
+### Steps in the Selling Process
+>**Prospecting**
+>: The sales step in which a salesperson or company identifies qualified potential customers. 
+
+>**Preapproach**
+>: The sales step in which a salesperson learns as much as possible about a prospective customer before making a sales call 
+
+>**Approach**
+>: The sales step in which a salesperson meets the customer for the first time
+
+>**Presentation and Demonstration**
+>: The sales step in which a salesperson tells the "value story" to the buyer, showing how the company's offer solves the customer's problems
+
+>**Handling Objections**
+>: The sales step in which a salesperson seeks out, clarifies, and overcomes any customer objections to buying. 
+
+>**Closing**
+>: The sales step in which a salesperson asks the customer for an order. 
+
+>**Follow-up**
+>: The sales step in which a salesperson follows up after the sale to ensure customer satisfaction and repeat business
+
+### Personal Selling and Managing Customer Relationships.
+
+## Sales Promotion
+**Sales Promotion**
+: Short-term incentives to encourage the purchase or sale of a product or a service.
+
+### Major sales promotion tools 
+**consumer Promotions**
+:  Sales promotion tools used to boost short-term customer buying and engagement or enhance long-term customer relationships.
+
+* Samples
+* Coupons
+* Rebates( or cash refunds)
+* Price packs(also called cent-off deals)
+* Premiums
+* Advertising specialties (Promotional products)
+* Point-of-purchase (POP) promotions
+* Contests,, sweepstakes, and games give consumers the chance to win something. 
+* Event marketing (or event sponsorship) creating a brand-marketing event or serving as a sole or participating sponsor of events creates  by others.
+
+
+>**Trade promotion**
+:> sales promotion tools used to persuade re-sellers to carry a brand, give it shelf space, and promote it in adverting. 
+
+>**Business Promotions**
+>: sales promotion tools used to generate business leads, stimulate purchases, reward customers, and motivate salespeople 
