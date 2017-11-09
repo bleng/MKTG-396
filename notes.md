@@ -633,9 +633,13 @@ Wholesalers add value by performing one or more of the following channel functio
 
 
 **Four Types of media**
+
 >**Paid media**-- includes promotional channels paid for by the sponsor, such as traditional media and online and digital media.
+
 >**Owned media**-- includes promotional channels owned and controlled by the company, such as company wesites, corporate blogs.
+
 >**Earned media**-- includes PR media channels, such as television, newspapers, blogs. and other media not directly paid for or controlled by the marketer but that include the content because of viewer, reader, or user interest. 
+
 >**Shared media**-- includes media shared by consumers with other consumers, such as social media, blogs, mobile media, and viral channels, as well as traditional word of mouth
 
  **Integrated marketing communications (IMC)**
@@ -728,7 +732,7 @@ PR departments may perform any or all of the following functions
 
 ### The Role and Impact of PR
 
-##Major Public Relations Tools
+## Major Public Relations Tools
 * News
 * Special events
 * Written materials
