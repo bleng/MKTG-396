@@ -915,7 +915,7 @@ A need for action
 
 # Chapter 16 The Global Marketplace
 ## Global Marketing Today
->**Global firm
+>**Global firm**
 >: A firm that, by operating in more than one country, gains R&D, production, marketing, and financial advantages in its costs and reputation that are not available to purely domestic competitors. 
 
 ![Major International Marketing Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/mimd.png)
