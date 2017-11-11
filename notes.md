@@ -910,3 +910,85 @@ A need for action
 * Limitions
 * Accuracy
 * Right to access
+
+
+
+# Chapter 16 The Global Marketplace
+## Global Marketing Today
+>**Global firm
+>: A firm that, by operating in more than one country, gains R&D, production, marketing, and financial advantages in its costs and reputation that are not available to purely domestic competitors. 
+
+![Major International Marketing Decisions](https://github.com/bleng/MKTG-396/blob/master/figure/mimd.png)
+
+### The international trade system
+>**The World Trade Organization**
+>**Economic Community**
+>: A group of nations organized to work toward common goals in the regulation of international trade 
+
+### Economic Environment
+The four types of industrial structures are as follows:
+>**Subsistence economies**
+>: vast majority of people engage in simple agriculture. 
+
+>**Raw material exporting economies**
+>: These economies are rich in one or more natural resources but poor in other ways. much of their revenue comes from exporting these resources. 
+
+>**Emerging economies (industrializing economies)**
+>: In an emerging economy, fast growth in manufacturing results in rapid overall economic growth. 
+
+>**Industrial economies**
+>:: Industrial economies are major exporters of manufactured goods, services, and investment funds.      
+
+![Indicators of Market Potential](https://github.com/bleng/MKTG-396/blob/master/figure/indpot.png)
+
+# Deciding how to enter the market 
+![Market Entry Strategies ](https://github.com/bleng/MKTG-396/blob/master/figure/MES.png)
+
+>**Exporting**
+>: Entering foreign markets by selling good produced in the company's home country, often with little modification 
+
+>**Joint Venturing**
+>: Entering foreign markets by joining with foreign companies to produce or market a product or service, licensing, contract manufacturing, management contracting, and joint ownership
+
+>**Licensing**
+>: Entering foreign markets through developing an agreement with a licensee in the foreign market.
+
+>**Contract Manufacturing**
+>: A joint venture in which a company contracts with manufacturers in a foreign market to produce its product or provide its service. 
+
+>**Management Contracting**
+>: A joint venture in which the domestic firm supplies the management know-how to a foreign company that supplies the capital the domestic firm exports management services rather than products. 
+
+>**Joint ownership**
+>: A cooperative venture in which a company creates a local business with investors in a foreign market, who share ownership and control 
+
+>**Direct Investment**
+>: Entering a foreign market by developing foreign-based assembly or manufacturing facilities 
+
+## Deciding on the global marketing program
+>**Standardized global marketing**
+>: An international marketing strategy that basically uses the same marketing strategy and mix in all of the company's international markets
+
+>**Adapted global marketing**
+>: An international marketing approach that adjusts the marketing strategy and mix elements to each international target market, which creates more costs but hopefully produces a larger market share and return
+
+### Product 
+![Five Global Product and Communications Strategies](https://github.com/bleng/MKTG-396/blob/master/figure/pro.png)
+
+>**Straight product extension**
+>: Marketing a product in a foreign market without making any changes to product
+
+>**Product Adaption**
+>: Adaption a product to meet local condition or wants in foreign markets.
+
+>**Product Invention**
+>: Creating new products or services for foreign markets. 
+
+>**Communication Adaption**
+>: A global communication strategy of fully adapting advertising messages to local markets
+
+### Distribution channels 
+**Whole-Channel View**
+: Designing international channels that take into account the entire global supply chain and marketing channel, forging an effective global value delivery network. 
+![Whole-Channel Concept for international marketing](https://github.com/bleng/MKTG-396/blob/master/figure/full.png)
+
