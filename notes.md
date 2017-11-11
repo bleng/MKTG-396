@@ -850,7 +850,7 @@ Engaging directly with carefully targeted individual consumers and customer comm
 >Using digital marketing tools such as websites, social media, mobile apps and ads, online video, email and blogs that engage consumers anywhere, any time via their digital devices. 
 
 
-[ Forms of Direct and digital marketing](https://github.com/bleng/MKTG-396/blob/master/figure/dsn.png)
+[ Forms of Direct and digital marketing](https://github.com/bleng/MKTG-396/blob/master/figure/dsm.png)
 
 ## Marketing, the internet, and the Digital age
 
@@ -898,7 +898,7 @@ Engaging directly with carefully targeted individual consumers and customer comm
 >**Telemarketing**
 >: Using the telephone to sell directly to customers
 
->**Direct-response television (DRTV) marketing
+>**Direct-response television (DRTV) marketing**
 >: Direct marketing via television, including direct-response television advertising (or infomercials) and interactive television (iTV) advertising. 
 
 >**Kiosk Marketing**
