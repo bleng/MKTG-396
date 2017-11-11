@@ -839,4 +839,74 @@ PR departments may perform any or all of the following functions
 >: sales promotion tools used to persuade re-sellers to carry a brand, give it shelf space, and promote it in adverting. 
 
 >**Business Promotions**
->: sales promotion tools used to generate business leads, stimulate purchases, reward customers, and motivate salespeople 
+>: sales promotion tools used to generate business leads, stimulate purchases, reward customers, and motivate salespeople
+
+
+# Chapter 15 Direct, online, social media,and mobile marketing
+
+## Direct and Digital Marketing
+Engaging directly with carefully targeted individual consumers and customer communities to both obtain an immediate response and build lasting customer relationships. no intermediary
+## Digital and social media marketing
+>Using digital marketing tools such as websites, social media, mobile apps and ads, online video, email and blogs that engage consumers anywhere, any time via their digital devices. 
+
+
+[ Forms of Direct and digital marketing](https://github.com/bleng/MKTG-396/blob/master/figure/DSM.png)
+
+## Marketing, the internet, and the Digital age
+
+**Multichannel marketing**
+: Marketing both through stores and other traditional offline channels and through digital, online, social media, and mobile channels.
+
+**Online Marketing**
+: Marketing via the internet using company websites, online ads and promotions, email, online video, and blogs.
+
+**Marketing website**
+: A site that interact with consumers to move them closer to a direct purchase or other marketing outcome
+
+**Branded community website**
+: A site that presents brand content that engages consumers and creates customer community around a brand.
+
+**Online advertising**
+: Advertising that appears while consumers are browsing online, including display ads, search-related ads, online classifieds, and other forms. 
+
+**Email Marketing**
+: Sending highly targeted, highly personalized, relationship-building marketing messages via email. 
+
+**Spam**
+: Unsolicited, unwanted commercial email messages
+
+**Viral marketing**
+: The digital version of word-of-mouth marketing: video, ads, and other marketing content that is so infectious that customers will seek it out or pass it along to friends. 
+
+**Blogs**
+: Online journals where people and companies post their thoughts and other content, usually related to narrowly defined topics. 
+
+## Social media marketing
+**Social media**
+: independent and commercial online communities where people congregate, socialized, and exchange views and information. 
+
+**Mobile Marketing**
+: Marketing messages, promotions, and other content delivered to on-the-go consumers through mobile phones, smartphones, tablets, and other mobile devices. 
+
+## Traditional Direct Marketing Forms
+>**Direct-mail marketing**
+>: Marketing that occurs by sending an offer, announcement, reminder, or other item directly to a person at a particular address. 
+
+>**Catalogue Marketing**
+>: Direct marketing through print, video, or digital catalogs that are mailed to select customer, made available in stores, or presented online.
+
+>**Telemarketing**
+>: Using the telephone to sell directly to customers
+
+>**Direct-response television (DRTV) marketing
+>: Direct marketing via television, including direct-response television advertising (or infomercials) and interactive television (iTV) advertising. 
+
+>**Kiosk Marketing**
+>: Good old-fashioned vending machines
+
+## Public policy issues in direct and digital marketing 
+A need for action
+* Consumer knowledge and consent
+* Limitions
+* Accuracy
+* Right to access
