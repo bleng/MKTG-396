@@ -1,12 +1,12 @@
 # Chapter 9 Marketing Channels
-##Distribution channel as a set of interdependent organizations:
+## Distribution channel as a set of interdependent organizations:
  The textbook defines distribution channel as “a set of interdependent organizations that help make a product or service available for use or consumption by the consumer or business user” (p. 392). Figure 11.2 on page 399 of the textbook displays a few examples of distribution channels. Except in direct marketing channels through which the producer sells the product directly to the consumer or business customer, the producer has to collaborate with at least one other organization to make the product available to consumers.
 
 The word interdependent is critical in the above definition because an action taken by an organization within a distribution channel impacts the other organizations involved in the same channel. For example, an increase in the price charged by the producer may lead to an increase in the price charged by the other intermediaries, and this will reduce the demand for the product. Even if the producer does not increase the price charged to intermediaries, a price increase by one of the intermediaries will have an impact on the demand and may contribute to the reduction of the producer’s profits.
 
 Another example of the interdependence among channel members is the way in which the service provided by the retailer influences how customers perceive the producer’s product or service. Because of the producer’s reliance on intermediaries to perform specific functions, channel decisions have to be taken seriously to avoid costly mistakes.
 
-##Coordination in a conventional distribution channel: 
+## Coordination in a conventional distribution channel: 
 A conventional distribution channel can be defined as one or more independent producers, wholesalers, and retailers, each a separate business seeking to maximize its own profits, even at the expense of profits for the system as a whole. Typically, in such a system, each channel partner sells directly to the partner below and does not care about what happens afterwards.
 
 In a typical traditional or conventional distribution channel, the producer sells to the wholesaler and the latter sells to the retailer, and each of them wants to maximize its own profits. It is now well established that in such a distribution channel, the retail prices to consumers are generally high and the level of service provided to consumers is rather poor.
